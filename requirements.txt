@@ -1,0 +1,1 @@
+src/rapidsms_dev/requirements/base.txt
